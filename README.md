@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @RedstoneBommel
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Java, Javascript (Node.js & React) and Python
+- 🌱 I’m currently learning Java, Javascript (Node.js & React.js) and Python
